@@ -2432,12 +2432,14 @@ es: {
 	viewAll: "Ver todo",
 	removeAds: "Eliminar publicidad de Dododex",
 	spawnMaps: "Mapas donde aparece",
-	evolutionEvent: null,
-	noOffline: null,
-	xp: null,
-	dcfd: null,
-	multsDoubleShort:"Dododex se ha actualizado a 2x domesticar para que coincida con las nuevas tarifas de ARK. ARCA jugadores móviles no se ven afectados, pero deben ajustar sus multiplicadores Dododex. Ve a Configuración para más detalles.",
-	multsDoubleLong:"la arca de doma, XP, y velocidades de recolección se duplicaron ahora de forma permanente. Los cálculos de Dododex han actualizado para coincidir con esto. Este es un cambio de juego base de ARCA, es decir, 1x doma será la misma velocidad que lo que antes era 2x. Si se encuentra en un servidor oficial, sus tasas deben establecerse a 1. ARCA móvil no se ve afectada, pero los jugadores sobre los jugadores móviles tendrán que ajustar su multiplicador Dododex ya que las tasas de Dododex ahora se duplicaron. Por favor utilice los preajustes actualizados a continuación para asegurarse de que está usando el multiplicador correcto."
+	evolutionEvent: "Evento Evolution",
+	noOffline: "Lo siento, esta característica no está disponible sin conexión.",
+	xp: "XP",
+	dcfd: "Descenso de comida de personaje dino",
+	multsDoubleShort: "Dododex ha sido actualizado a 2x de doma para coincidir con los nuevos ratios de ARK. Los jugadores de ARK Mobile no son afectados, pero deberán ajustar sus multiplicadores en Dododex. Ve a Ajustes para más detalles.",
+	multsDoubleLong: "La velocidad de doma, recolecta y XP se han duplicado permanentemente. Los cálculos de Dododex han sido actualizados para coordinarse con esto. Este cambio es en el juego de ARK, significando que la doma x1 tendrá la misma velocidad que antes la doma x2. Si estás en un servidor oficial, tus ratios deberían estar ajustados a 1. ARK Mobile no se ve afectado por esto, pero los jugadores deberán ajustar sus multiplicadores en su Dododex ya que los ratios en Dododex han sido doblados. Por favor usa los preajustes actualizados para asegurarte de usar el multiplicador correcto.",
+	settingsSwitchPrompt: "¿Cambiar a los ajustes {0}?",
+	settingsSwitchDesc: "Actualiza Dododex para usar los multiplicadores para {0}?"
 },
 fi: {
 	aboutStarveIntro: "\"Näännytys kesyttäminen\" Tekniikka jota jotkut selviytyjät käyttävät minimoidakseen riskin menettää resursseja kesyttämisen aikana.",
